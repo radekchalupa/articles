@@ -1,4 +1,4 @@
-// gcc gdk-okno.c -Wall -g `pkg-config --cflags --libs gdk-3.0` -ogdk-okno
+// gcc gdk-basic-application.c -Wall -g `pkg-config --cflags --libs gdk-3.0` -ogdk-basic-application
 
 #include <gdk/gdk.h>
 
